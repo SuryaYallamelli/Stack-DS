@@ -1,4 +1,4 @@
-
+// Custom implementation.
 // Stack Data Structure.
 import java.util.*;
 
